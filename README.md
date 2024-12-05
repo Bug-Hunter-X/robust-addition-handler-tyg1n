@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving the unexpected handling of null or undefined values in a simple addition function. The `bug.js` file contains the faulty code, which produces unexpected results or errors when either input is null or undefined. The `bugSolution.js` file provides a corrected version that explicitly checks for and handles these cases.
